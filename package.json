@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "serverless-reqvalidator-plugin": "^2.0.0"
+  }
+}
